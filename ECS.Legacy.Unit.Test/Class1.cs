@@ -21,5 +21,10 @@ namespace ECS.Legacy.Unit.Test
         {
 
         }
+        [Test]
+        public void TestJenkins3_JustToTestJenkinsConection_Test()
+        {
+
+        }
     }
 }
