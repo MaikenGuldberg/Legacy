@@ -10,21 +10,6 @@ namespace ECS.Legacy.Unit.Test
     [TestFixture]
     public class Class1
     {
-        [Test]
-        public void TestJenkins_JustToTestJenkinsConection_Test()
-        {
-            
-        }
-
-        [Test]
-        public void TestJenkins2_JustToTestJenkinsConection_Test()
-        {
-
-        }
-        [Test]
-        public void TestJenkins3_JustToTestJenkinsConection_Test()
-        {
-
-        }
+        
     }
 }
