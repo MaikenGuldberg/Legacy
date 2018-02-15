@@ -10,5 +10,10 @@ namespace ECS.Legacy
     {
         int GetTemp();
         bool RunSelfTest();
+        void SetTemp(int temp);
+        void WasItCalled(bool status);
+
+        int Temp { get; set; }
+        bool Status { get; set; }
     }
 }
